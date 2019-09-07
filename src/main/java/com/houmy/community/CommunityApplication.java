@@ -1,7 +1,7 @@
 package com.houmy.community;
 		import org.springframework.boot.SpringApplication;
 		import org.springframework.boot.autoconfigure.SpringBootApplication;
-//添加注释
+//添加注释 dsf
 @SpringBootApplication
 public class CommunityApplication {
 	public static void main(String[] args) {
